@@ -1,3 +1,6 @@
+# Autor:Patricia Zaragoza Palma
+# Ingenieria en Sistemas Computacionales
+
 import sympy as sp
 import tkinter as tk
 from tkinter import messagebox
